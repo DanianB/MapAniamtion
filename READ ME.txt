@@ -1,0 +1,42 @@
+Name: MapAnimation
+
+Description: The MapAnimation project was a project I had written as a part of an educational course.
+the project includes a webpage with a map of Boston and a button in the top left corner. 
+Pressing the button causes a blue marker to move across the screen.
+the goal of the project is to show various bus stops between MIT and Harvard.
+
+How to run: 
+1. wait for the webpage to load the map
+2. press the button in the top left of the webpage reading "Show stops between MIT and Harvard"
+3. wait for the marker to move across the screen showing the various stops between MIT and Harvard University.
+
+Roadmap of future improvements:
+I hope to include a function that allows the marker to be paused in motion so that the various stops can be observed with ease.
+I also wish to add a path or navigation for walking between stops.
+
+
+Support: danianbrits2017@gmail.com
+
+
+
+License information:
+
+Copyright (c) 2021 Danian Brits
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
